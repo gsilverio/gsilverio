@@ -2,7 +2,7 @@
   <tr>
     <td width="62%" valign="middle">
       <sub>
-        <code>S O F T W A R E R &nbsp; D E V E L O P E R</code>
+        <code>S O F T W A R E  &nbsp; D E V E L O P E R</code>
       </sub>
       <br /><br />
       <h1>
